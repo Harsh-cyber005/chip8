@@ -1,6 +1,3 @@
-Here's the full `README.md` in text format for your repository:
-
-```markdown
 # CHIP-8 Emulator
 
 This project is an implementation of the CHIP-8 emulator, a simple and popular virtual machine used for running games and programs from the 1970s. The emulator runs programs designed for the CHIP-8 architecture.
