@@ -35,4 +35,4 @@ To start the application, use the following command:
 npm start
 ```
 
-This will start the emulator and run it on the default port.
+This will start the emulator and run it on the port - 3000.
